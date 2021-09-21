@@ -9,6 +9,9 @@
         "start-dev": "webpack-dev-server --config ./webpack.config.dev",
         "build": "webpack --config ./webpack.config.prod"
     },
+    "engines": {
+        "node": "10.x"
+    },
     "author": "",
     "license": "ISC",
     "dependencies": {
