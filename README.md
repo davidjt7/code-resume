@@ -21,30 +21,6 @@
 
 * **Responsive for all devices**
 
-
-## Preview 
-
-**Iphone-**
-<p align="center">
-    <img aligh="left" src="http://code-resume.herokuapp.com/preview/iphone-dark.png" alt="iphone-dark"/>
-    <img aligh="right" src="http://code-resume.herokuapp.com/preview/iphone-light.png" alt="iphone-dark"/>
-</p>
-
-**Ipad-**
-<p align="center">
-    <img src="http://code-resume.herokuapp.com/preview/ipad-dark.png" alt="ipad-dark"/>
-</p>
-<p align="center">
-    <img src="http://code-resume.herokuapp.com/preview/ipad-light.png" alt="ipad-light"/>
- </p>   
-
-**PWA-**
-
-<p align="center">
-    <img aligh="left" src="http://code-resume.herokuapp.com/preview/pwa-app.png" alt="pwa-preview"/>
-</p>
- 
-
 ## Quick start
 
 **Clone This repo using:**
