@@ -17,6 +17,7 @@ app.get("/download", (req, res) => {
     const mergePdfName = `${__dirname}/resume.pdf`;
     const pdfUrls = Object.keys(Resume);
     try {
+      console.log(hostname);
       const pdfFiles = await Utils.createPdf(pdfUrls, hostname);
       await Utils.mergePdf(pdfFiles, mergePdfName);
 
