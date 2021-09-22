@@ -4,7 +4,7 @@
     "description": "",
     "private": true,
     "scripts": {
-        "start": "npm run build && node start.js",
+        "start": "webpack-dev-server --config ./webpack.config.dev",
         "server": "nodemon --inspect start.js",
         "start-dev": "webpack-dev-server --config ./webpack.config.dev",
         "build": "webpack --config ./webpack.config.prod"

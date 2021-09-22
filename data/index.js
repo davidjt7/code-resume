@@ -66,7 +66,7 @@ const Skills = {GeneralSkills, SpecialSkills};`,
 
 
 export const SocialLinks = {
-    resume: '/resume.pdf',
+    resume: '/res.pdf',
     linkedin: 'https://www.linkedin.com/in/djtin/',
     twitter: 'https://twitter.com/harbinger_djt',
     github: 'https://github.com/davidjt7'
